@@ -120,6 +120,81 @@
           40.01499435375046
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Campina Grande, Brazil",
+        "count": 7,
+        "increase": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.881690979003906,
+          -7.225568016281084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Charleston, SC",
+        "count": 103,
+        "increase": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94407653808594,
+          32.796221512079626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chicago, IL",
+        "count": 285,
+        "increase": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6324462890625,
+          41.880808915193874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Colima, Mexico",
+        "count": 170,
+        "increase": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.68896484375,
+          19.228176737766262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dallas, TX",
+        "count": 279,
+        "increase": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.79435729980469,
+          32.77976990995682
+        ]
+      }
     }
   ]
 }
