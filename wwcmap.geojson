@@ -90,6 +90,36 @@
           42.363617631805496
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bristol, UK",
+        "count": 75,
+        "increase": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5879669189453125,
+          51.45486265825492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boulder/Denver, CO",
+        "count": 1005,
+        "increase": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27271270751953,
+          40.01499435375046
+        ]
+      }
     }
   ]
 }
