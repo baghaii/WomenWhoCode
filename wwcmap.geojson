@@ -270,6 +270,381 @@
           22.279248291484432
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Indore, India",
+        "count": 19,
+        "increase": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.86677551269531,
+          22.716656784346625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jerusalem",
+        "count": 7,
+        "increase": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.99197006225585,
+          31.745540355262342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kingston, Jamaica",
+        "count": 104,
+        "increase": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7896270751953,
+          17.972365086104983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "London, UK",
+        "count": 719,
+        "increase": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1263427734375,
+          51.5027589576403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Los Angeles, CA",
+        "count": 410,
+        "increase": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24859619140626,
+          34.05379721731628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Melbourne, Australia",
+        "count": 164,
+        "increase": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93988037109375,
+          -37.835818618104156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Montevideo, Uruguay",
+        "count": 11,
+        "increase": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.166229248046875,
+          -34.901700428715436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New York, NY",
+        "count": 1531,
+        "increase": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99703979492188,
+          40.724884598773755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Phoenix, AZ",
+        "count": 82,
+        "increase": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.07015991210938,
+          33.445193134508465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Portland, OR",
+        "count": 352,
+        "increase": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67471313476561,
+          45.521743896993634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Recife, Brazil",
+        "count": 120,
+        "increase": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.894981384277344,
+          -8.061269213968382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Reno,NV/Tahoe,CA",
+        "count": 101,
+        "increase": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.794921875,
+          39.52311095124067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Santiago, Chile",
+        "count": 204,
+        "increase": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64208984375,
+          -33.44347427883795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "San Francisco, CA",
+        "count": 6621,
+        "increase": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42374420166016,
+          37.77722770873696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Seattle, WA",
+        "count": 869,
+        "increase": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33139038085936,
+          47.59875528481801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Silicon Valley, CA",
+        "count": 612,
+        "increase": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16522216796875,
+          37.44215478101228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stamford, CT",
+        "count": 88,
+        "increase": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53218078613281,
+          41.05217187065066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sydney, Australia",
+        "count": 361,
+        "increaase": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21719360351562,
+          -33.85787194818867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tel Aviv, Israel",
+        "count": 58,
+        "increase": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.834556579589844,
+          32.08868308117335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tokyo, Japan",
+        "count": 89,
+        "increase": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7515869140625,
+          35.67737855391475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tampa, FL",
+        "count": 120,
+        "increase": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.45445251464844,
+          27.95437795448293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Toronto, Ontario",
+        "count": 420,
+        "increase": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37553405761719,
+          43.65247230485361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Washington, DC",
+        "count": 951,
+        "increase": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02445983886719,
+          38.892636142310295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Waterloo, Ontario",
+        "count": 253,
+        "increase": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.52154541015625,
+          43.46438246220357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wichita, KS",
+        "count": 47,
+        "increase": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33766555786133,
+          37.69278602729966
+        ]
+      }
     }
   ]
 }
