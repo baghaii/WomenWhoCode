@@ -531,7 +531,7 @@
       "properties": {
         "Name": "Sydney, Australia",
         "count": 361,
-        "increaase": 10
+        "increase": 10
       },
       "geometry": {
         "type": "Point",
