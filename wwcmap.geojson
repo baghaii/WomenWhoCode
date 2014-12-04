@@ -30,6 +30,36 @@
           30.268556249047727
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bangalore, India",
+        "count": 186,
+        "increase": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.596435546875,
+          13.004557745339781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Belfast, Ireland",
+        "count": 294,
+        "increase": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9271240234375,
+          54.59752785211386
+        ]
+      }
     }
   ]
 }
