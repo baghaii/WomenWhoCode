@@ -60,6 +60,36 @@
           54.59752785211386
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Belo Horizonte, Brazil",
+        "count": 92,
+        "increase": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.956298828125,
+          -19.91138351415555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boston, MA",
+        "count": 485,
+        "increase": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05716705322266,
+          42.363617631805496
+        ]
+      }
     }
   ]
 }
