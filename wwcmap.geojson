@@ -195,6 +195,81 @@
           32.77976990995682
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Delhi, India",
+        "count": 51,
+        "increase": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.22770690917969,
+          28.65685103420342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oakland, CA",
+        "count": 271,
+        "increase": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27096557617189,
+          37.801646236899785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Frankfurt, Germany",
+        "count": 36,
+        "increase": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683319091796875,
+          50.11177210242299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gujarat, India",
+        "count": 60,
+        "increase": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.19140625,
+          22.177231792821342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hong Kong",
+        "count": 178,
+        "increase": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16717529296875,
+          22.279248291484432
+        ]
+      }
     }
   ]
 }
