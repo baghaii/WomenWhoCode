@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlanta, GA",
+        "count": 577,
+        "increase": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.375,
+          33.797408767572485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Austin, TX",
+        "count": 686,
+        "increase": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745361328125,
+          30.268556249047727
+        ]
+      }
+    }
+  ]
+}
